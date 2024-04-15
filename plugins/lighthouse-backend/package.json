@@ -38,13 +38,13 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.1.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
+    "@backstage/plugin-catalog-node": "1.0.0",
     "@backstage/plugin-lighthouse-common": "workspace:^",
     "@backstage/types": "workspace:^",
     "winston": "^3.2.1"
