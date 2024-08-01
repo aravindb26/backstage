@@ -52,7 +52,7 @@
     "@backstage/plugin-linguist": "workspace:^",
     "@backstage/plugin-linguist-common": "workspace:^",
     "@backstage/plugin-microsoft-calendar": "workspace:^",
-    "@backstage/plugin-newrelic": "workspace:^",
+    "@backstage/plugin-newrelic": "0.1.1",
     "@backstage/plugin-newrelic-dashboard": "workspace:^",
     "@backstage/plugin-octopus-deploy": "workspace:^",
     "@backstage/plugin-org": "workspace:^",
