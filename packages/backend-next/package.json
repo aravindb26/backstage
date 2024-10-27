@@ -52,7 +52,7 @@
     "@backstage/plugin-playlist-backend": "workspace:^",
     "@backstage/plugin-proxy-backend": "workspace:^",
     "@backstage/plugin-scaffolder-backend": "workspace:^",
-    "@backstage/plugin-search-backend": "workspace:^",
+    "@backstage/plugin-search-backend": "0.1.2",
     "@backstage/plugin-search-backend-module-catalog": "workspace:^",
     "@backstage/plugin-search-backend-module-explore": "workspace:^",
     "@backstage/plugin-search-backend-module-techdocs": "workspace:^",
