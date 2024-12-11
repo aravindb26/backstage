@@ -34,13 +34,13 @@
     "dist"
   ],
   "dependencies": {
-    "@backstage/config": "workspace:^",
-    "@backstage/core-app-api": "workspace:^",
+    "@backstage/config": "0.1.1",
+    "@backstage/core-app-api": "0.1.0",
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/frontend-plugin-api": "workspace:^",
     "@backstage/theme": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/types": "0.1.1",
     "@backstage/version-bridge": "workspace:^",
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
