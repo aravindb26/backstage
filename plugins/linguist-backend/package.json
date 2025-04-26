@@ -36,7 +36,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
+    "@backstage/plugin-catalog-node": "1.0.0",
     "@backstage/plugin-linguist-common": "workspace:^",
     "@backstage/types": "workspace:^",
     "@types/express": "*",
