@@ -41,7 +41,7 @@
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-permission-common": "workspace:^",
+    "@backstage/plugin-permission-common": "0.1.0",
     "@backstage/types": "workspace:^",
     "@kubernetes/client-node": "0.20.0",
     "kubernetes-models": "^4.3.1",
