@@ -39,13 +39,13 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-permission-common": "workspace:^",
+    "@backstage/plugin-permission-common": "0.1.0",
     "@backstage/types": "workspace:^",
-    "@kubernetes/client-node": "0.20.0",
+    "@kubernetes/client-node": "0.21.0",
     "kubernetes-models": "^4.3.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "luxon": "^3.0.0"
   },
   "devDependencies": {
